@@ -1,4 +1,4 @@
 # Badal-demo
 This is my first git repository
 <br>
-Author - Badal kumar
+Author - Badal kumar (Singh)
